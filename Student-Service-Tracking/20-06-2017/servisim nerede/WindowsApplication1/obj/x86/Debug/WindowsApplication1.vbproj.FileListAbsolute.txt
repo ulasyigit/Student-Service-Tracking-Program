@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.giris.resources
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\sn proje\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.bilgi.resources
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.obilgi.resources
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.giris.resources
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\user\Desktop\sn proje yeni\servisim nerede\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ogrenciekle.resources
